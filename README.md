@@ -3,7 +3,7 @@ I'am a senior high school student of Dongguan Middle School-SongshanLake School(
 
 Member of [SecureNexusLab](SecureNexusLab.github.io), Founder of 08vuln Security Lab
 
-Blog at [薄樱落御守のBlog](https://love-2000.icu)
+Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=fishcanf1y&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
