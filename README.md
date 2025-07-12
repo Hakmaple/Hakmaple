@@ -1,5 +1,5 @@
 # About Me:
-I'am a senior high school student of Dongguan Middle School-SongshanLake School(Group)Dongguan No.13 High School and security researcher with a keen interest in Binary Security, IoT security and Reverse Enginerring.
+I'am a senior high school student of Dongguan Middle School-SongshanLake School(Group)Dongguan No.13 High School, security researcher with a keen interest in Binary Security, IoT security and Reverse Enginerring and baby Python&C/C++&Golang Devloper
 
 Member of [SecureNexusLab](SecureNexusLab.github.io), Founder of 08vuln Security Lab
 
