@@ -5,15 +5,16 @@ Member of [SecureNexusLab](SecureNexusLab.github.io), Founder of 08vuln Security
 
 Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 
-[![fishcanf1y's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishcanf1y)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
-
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
 - 对二进制安全很感兴趣，目前正在学习Pwn / Re
 - 以前学Web的，比赛只会做crypto和misc的签到
 - 对物联网漏洞挖掘很感兴趣
 - 梦想成为Full Stack Devloper / CTFer
+
+[![fishcanf1y's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishcanf1y)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
+
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,redis,arduino,vscode,visualstudio,idea,pycharm,obsidian,github,ps,gmail,wasm)](https://skillicons.dev)
