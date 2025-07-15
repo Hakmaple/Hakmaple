@@ -4,7 +4,7 @@ I'am a senior high school student of Dongguan Middle School-SongshanLake School(
 Member of [SecureNexusLab](SecureNexusLab.github.io), Founder of 08vuln Security Lab
 
 Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
-<img align='right' src="https://github-readme-stats.zohan.tech/api?username=fishcanf1y&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+[![fishcanf1y's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishcanf1y)](https://github.com/anuraghazra/github-readme-stats)
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
 - 对二进制安全很感兴趣，目前正在学习Pwn / Re
