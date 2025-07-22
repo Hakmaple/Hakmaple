@@ -22,16 +22,4 @@ Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fishcanf1y&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-# My Future
 
-<table>
-  <tr>
-    <td>🥰恭喜您成为第</td>
-    <td><img src="https://profile-counter.glitch.me/fishcanf1y/count.svg" alt=" " /></td>
-    <td>位访客，感谢您的关注和支持~</td>
-  </tr>
-</table>
-
-- 👀 会尝试上传我自己整理的一些笔记
-- 🌱 也会分享我自己做的一些安全相关的工具，并努力开发出更多的优质项目
-- 👋 分享优质安全测试的骚姿势，欢迎师傅们和我交流~
