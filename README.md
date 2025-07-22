@@ -13,7 +13,7 @@ Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 
 [![fishcanf1y's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishcanf1y)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light" />
+<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light&hide=javascript,html,css,ejs" />
 
 
 # Skills
