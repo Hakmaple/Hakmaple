@@ -1,19 +1,13 @@
-# About Me:
-I'am a senior high school student of Dongguan Middle School-SongshanLake School(Group)Dongguan No.13 High School, security researcher with a keen interest in Binary Security, IoT security and Reverse Enginerring and baby Python&C/C++&Golang Devloper
+👋 Hi, I’m @EvandeZheng
+👀 I’m interested in binary security, programming language.
+🏫 I'm a high school student at Dongguan Middle School SongshanLake School(Group)D.G.NO.13HS.
+📫 How to reach me: Email or [Evande's Page](https://EvandeZheng.github.io)
+😄 Pronouns: he/him
+⚡ Fun fact: I was one of the organizers of the [Tencent AIGC Challenge](https://bbs.kanxue.com/thread-286577.htm), and I am currently an assistant for the [LLM Engine Program by Narwhal x Tencent Zhuque Lab x Tencent Wukong Security](https://securenexuslab.github.io/2025/07/16/LLM-engine-plan/).
 
-Member of [SecureNexusLab](https://SecureNexusLab.github.io), Founder of 08vuln Security Lab
+[![Evande's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandeZheng)](https://github.com/anuraghazra/github-readme-stats)
 
-Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
-
-- 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
-- 对二进制安全很感兴趣，目前正在学习Pwn / Re
-- 以前学Web的，比赛只会做crypto和misc的签到
-- 对物联网漏洞挖掘很感兴趣
-- 梦想成为Full Stack Devloper / CTFer
-
-[![fishcanf1y's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishcanf1y)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoilimChang&layout=compact&theme=light&hide=javascript,html,css,ejs" />
+<img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandeZheng&layout=compact&theme=light&hide=javascript,html,css,ejs" />
 
 
 # Skills
@@ -21,5 +15,4 @@ Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HoilimChang&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EvandeZheng&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
