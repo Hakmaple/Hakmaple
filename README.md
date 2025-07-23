@@ -13,7 +13,7 @@ Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 
 [![fishcanf1y's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishcanf1y)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light&hide=javascript,html,css,ejs" />
+<img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoilimChang&layout=compact&theme=light&hide=javascript,html,css,ejs" />
 
 
 # Skills
@@ -21,5 +21,5 @@ Blog at [fishcanf1y's blog](https://fishcanf1y.github.io)
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fishcanf1y&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HoilimChang&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
