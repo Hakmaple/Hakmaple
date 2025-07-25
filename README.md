@@ -5,9 +5,17 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was one of the organizers of the [Tencent AIGC Challenge](https://bbs.kanxue.com/thread-286577.htm), and I am currently an assistant for the [LLM Engine Program by Narwhal x Tencent Zhuque Lab x Tencent Wukong Security](https://securenexuslab.github.io/2025/07/16/LLM-engine-plan/).
 
-[![Evande's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffertyZheng)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffertyZheng&layout=compact&theme=light&hide=javascript,html,css,ejs" />
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RaffertyZheng" alt="Evande's GitHub stats" />
+    </td>
+    <td>
+      <img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffertyZheng&layout=compact&theme=light&hide=javascript,html,css,ejs" />
+    </td>
+  </tr>
+</table>
 
 
 
