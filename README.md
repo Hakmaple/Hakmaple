@@ -5,14 +5,16 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was one of the organizers of the [Tencent AIGC Challenge](https://bbs.kanxue.com/thread-286577.htm), and I am currently an assistant for the [LLM Engine Program by Narwhal x Tencent Zhuque Lab x Tencent Wukong Security](https://securenexuslab.github.io/2025/07/16/LLM-engine-plan/).
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RaffertyZheng" alt="Evande's GitHub stats" />
-  </div>
-  <div>
-    <img height="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffertyZheng&layout=compact&theme=light&hide=javascript,html,css,ejs" />
-  </div>
-</div>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=RaffertyZheng&show_icons=true&theme=default" />
+    </td>
+    <td style="border: none; padding: 0;">
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffertyZheng&layout=compact&theme=default&hide=javascript,html,css,ejs" />
+    </td>
+  </tr>
+</table>
 
 
 
