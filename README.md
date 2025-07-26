@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=RaffertyZheng&show_icons=true&theme=default" />
     </td>
     <td style="border: none; padding: 0;">
-      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffertyZheng&layout=compact&theme=default&hide=javascript,html,css,ejs" />
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffertyZheng&layout=compact&theme=default&hide=javascript,html,css,vue,ejs" />
     </td>
   </tr>
 </table>
