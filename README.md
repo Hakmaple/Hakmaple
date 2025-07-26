@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was one of the organizers of the [Tencent AIGC Challenge](https://bbs.kanxue.com/thread-286577.htm), and I am currently an assistant for the [LLM Engine Program by Narwhal x Tencent Zhuque Lab x Tencent Wukong Security](https://securenexuslab.github.io/2025/07/16/LLM-engine-plan/).
 
-<img align='right' src="https://github-readme-stats.zohan.tech/api?username=z4k0r&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=fishcanf1y&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
 - 在读高中生|新手OIer|同时也会去打创赛|嵌入式nb
 - 对二进制安全很感兴趣，目前正在学习Pwn / Re
