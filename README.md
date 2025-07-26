@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,java,spring,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,redis,arduino,vscode,visualstudio,idea,pycharm,obsidian,github,ps,gmail,wasm)](https://skillicons.dev)
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishcanf1y&layout=compact&theme=light&hide=javascript,html,css,ejs,makefile,vue" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fishcanf1y&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
