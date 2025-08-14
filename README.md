@@ -5,6 +5,5 @@
 - 👀 Research in general-security
 - ⚡ Fun fact: coding and sleep
 
-![GitHub Overview](https://raw.githubusercontent.com/Carvinozheng/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![Top Languages](https://raw.githubusercontent.com/Carvinozheng/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Overview](https://raw.githubusercontent.com/Carvinozheng/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Languages](https://raw.githubusercontent.com/Carvinozheng/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only)
