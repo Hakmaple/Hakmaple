@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @zer0ptr
-- 😄 Pronouns: he/him
-- 🏫 27' High school student 
-- 📫 How to reach me: [Email](iszhenghailin@gmail.com) or [zer0ptr's Blog](https://zer0ptr.github.io/)
-- 👀 Research in general-security
-- ⚡ Fun fact: coding and sleep
+## Zer0ptr
 
+### Whoami
+- 👋 Hi, I’m @zer0ptr, I’m interested in binary security.
+- 📫 How to reach me: Email / [zer0ptr's blog](https://zer0ptr.github.io)
+- 🔭 Researcher: @SecureNexusLab(Member)/@08vuln(Leader)
+
+### Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0ptr&show_icons=true&theme=tokyonight)
 <img height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ptr&layout=compact&theme=tokyonight&hide=javascript,html,css,ejs,less,shell,makefile,batchfile,java" />
 
