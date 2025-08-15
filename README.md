@@ -2,7 +2,7 @@
 
 ## Whoami
 - 👋 Hi, I’m @zer0ptr, I’m interested in binary security.
-- 📫 How to reach me: Email / [zer0ptr's blog](https://zer0ptr.github.io)
+- 📫 How to reach me: Email or [zer0ptr's blog](https://zer0ptr.github.io)
 - 🔭 Researcher: @SecureNexusLab(Member)/@08vuln(Leader)
 
 ## Github Status
