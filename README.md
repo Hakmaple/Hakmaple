@@ -11,6 +11,3 @@
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,vscode,visualstudio,pycharm,obsidian,github,ps,gmail,wasm)](https://skillicons.dev)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zer0ptr&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
