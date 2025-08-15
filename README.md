@@ -5,5 +5,4 @@
 - 👀 Research in general-security
 - ⚡ Fun fact: coding and sleep
 
-![GitHub Overview](https://raw.githubusercontent.com/zer0ptr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Top Languages](https://raw.githubusercontent.com/zer0ptr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=zer0ptr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
