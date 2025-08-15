@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0ptr&show_icons=true&theme=tokyonight)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zer0ptr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ptr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python,flask,django,go,linux,docker,bash,php,html,js,cpp,c,git,md,mysql,vscode,visualstudio,pycharm,obsidian,github,ps,gmail,wasm)](https://skillicons.dev)
