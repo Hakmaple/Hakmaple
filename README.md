@@ -6,3 +6,6 @@
 - ⚡ Fun fact: coding and sleep
 
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=zer0ptr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0ptr&layout=compact&theme=light&hide=javascript,html,css,ejs,less" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zer0ptr&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
