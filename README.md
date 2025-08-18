@@ -1,6 +1,7 @@
 # Zer0ptr
 
 - 👋 Hi, I’m @zer0ptr, I’m interested in binary security.
+- 👀 I'm a OI-enthusiast and Rookie Individual-Developer.
 - 📫 How to reach me: Email or [zer0ptr's blog](https://zer0ptr.github.io)
 - 🔭 Researcher: @SecureNexusLab(Member)/@08vuln(Leader)
 
