@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @zer0ptr, I’m interested in binary security.
 - 👀 I'm a OIer and Rookie Individual-Developer at @AstraCoreLz.
 - 📫 How to reach me: Email or [zer0ptr's blog](https://zer0ptr.github.io)
-- 🔭 Researcher: @SecureNexusLab(Member)/@08vuln(Leader)
+- 🔭 Researcher: @SecureNexusLab(Member)/@Eko4raway(Leader)
 
 ## Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0ptr&show_icons=true&theme=tokyonight)
