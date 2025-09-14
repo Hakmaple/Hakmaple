@@ -1,9 +1,9 @@
 ## WhoAmI
 
-- 👋 Hi, I’m @zer0ptr, I’m interested in binary security.
-- 👀 I'm a OIer and Rookie Individual-Developer at @AstraCoreLz.
-- 📫 How to reach me: Email or [zer0ptr's blog](https://zer0ptr.github.io)
-- 🔭 Researcher: @SecureNexusLab(Member)/@FlashSecurityLab(Leader)
+- 👋 Hi, I’m @Hakmaple, 
+- 👀 I’m interested in binary security.
+- 📫 How to reach me: Email or [maple's blog](https://hakmaple.github.io)
+- 🔭 Researcher: @SecureNexusLab(Member)
 
 
 ## Skills
