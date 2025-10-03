@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eternalviolet17
+- 👋 Hi, I’m @zer0ptr, you can call me Hailin.
 - 👀 I’m interested in binary security, programming language.
-- 📫 How to reach me: [Email](mailto:iszhenghailin@gmail.com), [Hailin's blog](https://eternalviolet17.github.io/).
+- 📫 How to reach me: [Email](mailto:iszhenghailin@gmail.com), [zer0ptr's blog](https://zer0ptr.github.io/).
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Currently working hard to intern at [ISCAS](https://is.cas.cn/) during the summer vacation.
